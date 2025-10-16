@@ -4,6 +4,9 @@ A powerful and user-friendly Python application that generates thousands of pers
 ## 🖼️ Screenshot
 
 
+<img src="https://github.com/nacttch/genpass/blob/main/genapss.png" alt="GenPass" width="1920" height="1080" style="border-radius: 50%;" />
+
+</div>
 
 ## 🌟 Features
 
